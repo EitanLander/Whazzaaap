@@ -13,8 +13,6 @@ This project is a simplified mockup of WhatsApp built using Socket.IO technology
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/socket-io-whatsapp-mockup.git`
-2. Navigate to the project directory: `cd socket-io-whatsapp-mockup`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
